@@ -14,6 +14,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Kamilo&layout=compact&langs_count=7&locale=pt-br&theme=dracula"/>
 </div>
 
-
-
-![Snake animation](https://github.com/Leo-Kamilo/Leo-Kamilo/blob/output/github-contribution-grid-snake.svg)
